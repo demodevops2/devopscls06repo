@@ -2,3 +2,4 @@
 
 echo "display today date"
 date
+df -h
